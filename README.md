@@ -1,0 +1,1 @@
+## == > Um bot de prefixo na v13 do Discord.js.

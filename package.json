@@ -1,0 +1,17 @@
+{
+  "name": "coursedcjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kayque",
+  "license": "ISC",
+  "dependencies": {
+    "common-tags": "^1.8.2",
+    "discord.js": "^14.7.1",
+    "discord.js-avatar": "^1.0.0",
+    "fs": "^0.0.1-security"
+  }
+}
